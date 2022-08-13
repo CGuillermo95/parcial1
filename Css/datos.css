@@ -1,0 +1,24 @@
+body{
+	background-image:url(../Img//pauta-de-vacunacion.jpg);
+	width: 100%;
+	height:100%;
+	background-size: cover;
+	color:white;
+}
+
+tr{
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    font-weight: 900;
+}
+tr th
+{
+    border: #b2b2b2 8px solid;
+}
+
+label {
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    font-weight: 900;
+}
